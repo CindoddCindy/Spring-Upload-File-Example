@@ -1,0 +1,7 @@
+com/example/demo/DemoApplication.class
+com/example/demo/service/FilesStorageServiceImpl.class
+com/example/demo/model/ResponseMessage.class
+com/example/demo/service/FilesStorageService.class
+com/example/demo/model/FileInfo.class
+com/example/demo/exception/FileUploadExceptionAdvice.class
+com/example/demo/controller/FilesController.class
